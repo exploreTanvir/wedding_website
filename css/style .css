@@ -1,0 +1,247 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+img {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+#first {
+  background-image: url(../img/womanflowersholidaysgirl6270.jpg);
+  height: 900px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.mary {
+  font-family: Lato, sans-serif !important;
+  margin-top: 21rem;
+}
+.international {
+  font-family: Georgia, serif !important;
+  font-size: 4.5rem;
+}
+.read {
+  padding-top: 9rem;
+}
+@media only screen and (max-width: 1920px) {
+  .ans {
+    display: block;
+    font-family: Georgia, serif !important;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .ans {
+    display: inline;
+    font-family: Georgia, serif !important;
+    font-size: 26px;
+    line-height: 2px;
+  }
+}
+.first_button {
+  background-color: #fa255e;
+  padding: 47px 17rem;
+}
+#second {
+  background: #f8e5e5;
+  position: relative;
+  height: 355px;
+}
+.planner {
+  font-family: "Open Sans", sans-serif;
+}
+.second_button {
+  color: #fa255e;
+  letter-spacing: 3px;
+}
+
+.first_image {
+  position: absolute;
+  left: auto;
+  margin: 0px 100px;
+}
+.second-image {
+  position: absolute;
+  left: auto;
+  right: 52px;
+  width: 22%;
+  margin: 0px 159px;
+}
+#third {
+  background: #c39ea0;
+}
+.luxury {
+  font-family: Georgia, serif !important;
+  background: #fa255e;
+  color: white;
+  font-size: 3rem;
+  height: 28rem;
+  width: 22rem;
+}
+.linda {
+  padding: 3rem;
+}
+#fourth {
+  background: url(../img/photo-1513279922550-250c2129b13a.avif);
+  height: 600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.budget {
+  font-family: Georgia, serif !important;
+  color: #624b4b !important;
+  margin-left: 6rem;
+}
+#fifth {
+  background: #f8e5e5;
+  position: relative;
+}
+
+.online_website {
+  width: 32rem;
+}
+.website {
+  margin-left: 6rem;
+  font-family: "Open Sans", sans-serif;
+}
+.budget_two {
+  font-family: Georgia, serif !important;
+  color: #624b4b !important;
+}
+.img_budget {
+  width: 69rem;
+  height: 36rem;
+}
+.wedding-one {
+  width: 80%;
+  margin-right: 29px;
+}
+.third_button {
+  letter-spacing: 3px;
+}
+.lifestyle {
+  font-family: Georgia, serif !important;
+  font-size: 48px;
+}
+#sixth {
+  background: black;
+}
+
+.last_img {
+  position: absolute;
+}
+.last_img {
+  top: 57rem;
+}
+.photo_film {
+  height: 30rem;
+}
+.photo_film_one {
+  background: url(../img/pexelsphoto931158.jpeg);
+
+  background-size: cover;
+  height: 30rem;
+  width: 24rem;
+}
+.photo_film_two {
+  background: url(../img/pexelsphoto1770964.jpeg);
+  background-size: cover;
+  height: 30rem;
+  width: 24rem;
+}
+.photo_film_three {
+  background: url(../img/pexelsphoto931168.jpeg);
+  background-size: cover;
+  height: 30rem;
+  width: 24rem;
+}
+
+.photo_film_four {
+  background: url(../img/pexelsphoto1819179.jpg);
+  background-size: cover;
+  height: 30rem;
+  width: 24rem;
+}
+.catering {
+  height: 28rem;
+}
+#eight {
+  background: #c39ea0;
+}
+.catering_two {
+  height: 33rem;
+}
+.luxury_two {
+  height: 33rem;
+  width: 24rem;
+}
+.luxury_three {
+  font-family: Georgia, serif !important;
+  background: #fa255e;
+  color: white;
+  font-size: 3rem;
+  height: 32rem;
+}
+.mary_two {
+  font-family: Lato, sans-serif !important;
+}
+#ninth {
+  height: 30rem;
+  background: url(../img/pexelsphoto11870792.jpg);
+}
+.nicepage {
+  color: #fda7be;
+}
+.create {
+  color: white;
+}
+#tenth {
+  background: #312a2b;
+}
+span.lb-number {
+  display: none !important;
+}
+#seventh {
+  background: #c39ea0;
+}
+@media only screen and (max-width: 576px) {
+  .first_image,
+  .second-image,
+  .last_img {
+    display: none;
+  }
+  .planner {
+    font-size: 26px;
+  }
+  .first_button {
+    padding: 8px 11rem;
+  }
+  .read {
+    padding-top: 0px;
+  }
+  .mary {
+    margin-top: 0px;
+  }
+  .love_this {
+    text-align: center;
+  }
+  .budget_website {
+    text-align: center;
+    margin: 0 auto;
+  }
+  .budget,
+  .website {
+    margin-left: 0px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .first_image,
+  .second-image,
+  .last_img {
+    display: none;
+  }
+}
